@@ -1,0 +1,17 @@
+.home-page {
+    height: 800px;
+    weight: 400px;
+    background: linear-gradient(#3CB371, #00FFFF, #8B008B)
+}
+
+body {
+    margin: 0px;
+}
+
+#button-home {
+    width: 208px;
+    height: 38px;
+    border-radius: 20px;
+    border-top-style: none;
+    border-inline: none;
+}
